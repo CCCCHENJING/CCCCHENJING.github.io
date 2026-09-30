@@ -14,6 +14,10 @@ redirect_from:
 
 I am currently a PhD student at Beijing University of Posts and Telecommunications (BUPT). My previous research focused on **medical artificial intelligence, biometric recognition, deep learning, and self-supervised anomaly detection**. I am currently exploring new research directions.
 
+# News
+
+- Updates coming soon.
+
 # Research Interests
 
 Exploring new directions.
@@ -38,5 +42,13 @@ Exploring new directions.
 - National Bronze Award and two Chongqing Silver Awards, China International College Students' Innovation Competition
 - National Silver Award and Chongqing Silver Award, Challenge Cup China College Students' Entrepreneurship Competition
 - National Bronze Award, Zhengda Cup National College Students' Market Survey and Analysis Competition
+
+# Invited Talks
+
+- Details coming soon.
+
+# Internships
+
+- Details coming soon.
 
 <p style="color:#777;font-size:0.9em;margin-top:2.5rem;">Last updated: September 2026</p>
