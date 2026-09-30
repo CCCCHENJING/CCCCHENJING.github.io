@@ -35,11 +35,8 @@ Exploring new directions.
 # Honors and Awards
 
 - National Scholarship for Graduate Students
-- First Prize Graduate Scholarship at Chongqing Technology and Business University (twice)
-- Second Prize Graduate Scholarship at Chongqing Technology and Business University
 - National Bronze Award and two Chongqing Silver Awards, China International College Students' Innovation Competition
 - National Silver Award and Chongqing Silver Award, Challenge Cup China College Students' Entrepreneurship Competition
 - National Bronze Award, Zhengda Cup National College Students' Market Survey and Analysis Competition
-- Outstanding Graduate Student and Outstanding Graduate Student Leader, Chongqing Technology and Business University
 
 <p style="color:#777;font-size:0.9em;margin-top:2.5rem;">Last updated: September 2026</p>
