@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
-
-# About Me
+# 👋 About Me {#about-me}
 
 I am currently a PhD student at Beijing University of Posts and Telecommunications (BUPT). My previous research focused on **medical artificial intelligence, biometric recognition, deep learning, and self-supervised anomaly detection**. I am currently exploring new research directions.
 
-# News
+# 🔥 News {#news}
 
 - Updates coming soon.
 
-# Research Interests
+# 🔬 Research Interests {#research-interests}
 
 Exploring new directions.
 
-# Selected Publications
+# 📝 Selected Publications {#selected-publications}
 
 1. **WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition.**<br>
    Huafeng Qin\*, Yuming Fu\*, **Jing Chen**, Qun Song, et al.<br>
@@ -36,18 +34,18 @@ Exploring new directions.
    Yuming Fu\*, **Jing Chen (Co-First Author)**, et al.<br>
    *9th International Conference on Big Data and Internet of Things (BDIOT 2025)*.
 
-# Honors and Awards
+# 🎖️ Honors and Awards {#honors-and-awards}
 
 - National Scholarship for Graduate Students
 - National Bronze Award and two Chongqing Silver Awards, China International College Students' Innovation Competition
 - National Silver Award and Chongqing Silver Award, Challenge Cup China College Students' Entrepreneurship Competition
 - National Bronze Award, Zhengda Cup National College Students' Market Survey and Analysis Competition
 
-# Invited Talks
+# 💬 Invited Talks {#invited-talks}
 
 - Details coming soon.
 
-# Internships
+# 💻 Internships {#internships}
 
 - Details coming soon.
 
