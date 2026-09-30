@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈静 | Jing Chen"
-description              : "陈静的学术主页：医学人工智能、生物特征识别与深度学习研究。"
+title                    : "Jing Chen"
+description              : "Jing Chen's academic homepage. PhD student at Beijing University of Posts and Telecommunications."
 url                      : "https://cccchenjing.github.io"
 baseurl                  : ""
 repository               : "CCCCHENJING/CCCCHENJING.github.io"
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈静 / Jing Chen"
-  avatar           : "images/jing-chen.jpg"
-  bio              : "人工智能硕士研究生 · 医学人工智能与生物特征识别"
-  location         : "重庆，中国"
-  employer         : "重庆工商大学"
+  name             : "Jing Chen"
+  avatar           : "images/jing-chen.png"
+  bio              : "PhD Student at BUPT"
+  location         : "Beijing, China"
+  employer         : "Beijing University of Posts and Telecommunications"
   pubmed           : 
   googlescholar    :
-  email            : "jcccchen@163.com"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
